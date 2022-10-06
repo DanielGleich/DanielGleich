@@ -22,5 +22,3 @@ int <b>main</b>() {
 <div>
   I am interested in making my own games and to achieve that goal I am currently learning to develope games with the Unity engine. At the moment, I am able to write code for HTML, CSS, JavaScript, PHP (only basics), C++ and C#.
 </div>
-
-- Contact: gleichdaniel16@gmail.com
